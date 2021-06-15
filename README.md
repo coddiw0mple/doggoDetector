@@ -16,6 +16,8 @@ In this real-world setting, we will need to piece together a series of models to
 4. numpy
 5. matplotlib
 
+### Setup instructions: 
+
 1. Clone the repo
 	``` 
 		git clone https://github.com/coddiw0mple/doggoDetector.git
