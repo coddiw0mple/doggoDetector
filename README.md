@@ -5,7 +5,7 @@ In this notebook, I will make the first steps towards developing an algorithm th
 
 ![Sample Dog Output](images/sample_dog_output.png)
 
-![Sample Human Output](images/sample_dog_output.png)
+![Sample Human Output](images/sample_human_output.png)
 
 In this real-world setting, we will need to piece together a series of models to perform different tasks; for instance, the algorithm that detects humans in an image will be different from the CNN that infers dog breed.  There are many points of possible failure, and no perfect algorithm exists.  My imperfect solution will nonetheless be a fun experience!
 
